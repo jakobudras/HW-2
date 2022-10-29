@@ -1,0 +1,72 @@
+[
+  {
+    "username": "TestUser",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "Testing out the JSON fetch",
+    "username_source": "https://www.kindpng.com/picc/m/495-4952535_create-digital-profile-icon-blue-user-profile-icon.png"
+  },
+  {
+    "username": "TestUser2",
+    "date": "Oct 22, 2022",
+    "img_source": "https://www.ecb.ee/wp-content/uploads/2022/06/Tartu-2024.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "username_source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png"
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  },
+  {
+    "username": "",
+    "date": "Oct 22, 2022",
+    "img_source": "",
+    "description": "",
+    "username_source": ""
+  }
+]
